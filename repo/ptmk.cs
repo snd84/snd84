@@ -25,7 +25,7 @@ public RawImage pig;
 public RectTransform piv;
 public RectTransform pip;
 public Image[] ig = new Image[50];
-
+　
 public Camera cam;
 public MeshCollider mec;
 public LayerMask mk;
