@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine.UI;
 using UnityEngine;
-
+　
 public class meshmaker : MonoBehaviour
 {
 	public GameObject box;
