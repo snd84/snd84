@@ -4,7 +4,7 @@ using UnityEngine;
 using UnityEngine.UI;
 
 public class efcc : MonoBehaviour
-{
+{ 
 	public ParticleSystem prt;
 	public GameObject ip;	
 	public Slider[] sl = new Slider[26];
