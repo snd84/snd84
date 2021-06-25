@@ -32,7 +32,7 @@ public class mvrt : MonoBehaviour
     Vector3 mp;
     Vector3 gp;
     Vector3 gr;
-    Vector3 cr;
+    Vector3 cr;　
     public Image[] sp = new Image[5];
     Color con = new Color(0.7f,1f,0.2f,0.4f);
     Color cof = new Color(0.21f,0.21f,0.21f,0.4f);
