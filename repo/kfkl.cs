@@ -17,7 +17,7 @@ public Slider sz;
 public Slider stm;
 public Slider smi;
 public Slider srs;
-
+　
 //public Image[] ri;
 //public GameObject[] go = new GameObject[21];
 public RectTransform[] re = new RectTransform[21];
